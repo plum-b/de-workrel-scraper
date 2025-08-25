@@ -21,7 +21,7 @@ scrapy crawl workrel
 
 Run with a date range (DD/MM/YYYY):
 ```
-scrapy crawl workrel -a from_date=01/07/2025 -a to_date=21/08/2025
+scrapy crawl workrel -a from_date=01/01/2024 -a to_date=31/01/2024
 ```
 
 ### Output

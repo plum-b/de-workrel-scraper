@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build/packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Editors/OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Tests/coverage
+.pytest_cache/
+.coverage
+
+# Scrapy cache
+.scrapy/
+
+# Project outputs
+# results.json
+# data/landing/*
+# !data/landing/.gitkeep
+# data/processed/*
+# !data/processed/.gitkeep
+
